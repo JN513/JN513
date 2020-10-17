@@ -34,7 +34,7 @@
 
 <img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api?username=JN513&show_icons=true&hide_border=true&count_private=true"/>
 
-<img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JN513&&langs_count=10&count_private=true&layout=compact"/>
+<img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JN513&&langs_count=8&count_private=true&layout=compact"/>
 
 [website]: https://jn513.github.io/
 [linkedin]: https://www.linkedin.com/in/julio-nunes-avelar-98ab8a199/
