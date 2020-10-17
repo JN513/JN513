@@ -32,7 +32,7 @@
 <br/>
 
 
-<img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api?username=JN513&show_icons=true&hide_border=true"/>
+<img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api?username=JN513&show_icons=true&hide_border=true&count_private=true"/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JN513&hide=stars,commits,prs,issues,contribs&count_private=true)
 
