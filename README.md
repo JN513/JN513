@@ -7,7 +7,6 @@
  - Aprendendo sobre Machine Larning
  - Minha linguagem principal e python, mas também utilizo C++ e Java Script;
 
----
 
 ### Entre em contato comigo:
 
@@ -17,7 +16,6 @@
 [<img align="left" alt="Julio Nunes | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][canal]
 <br/>
 
----
 
 ### linguagens e tecnologias:
 
@@ -46,7 +44,7 @@
 
 ### Linguagens que eu mais utilizo:
 
-<img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JN513&&langs_count=8&count_private=true&layout=compact&hide=Jupyter%20Notebook,HTML"/>
+<img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JN513&&langs_count=8&count_private=true&layout=compact&hide=Jupyter%20Notebook"/>
 
 [website]: https://jn513.github.io/
 [linkedin]: https://www.linkedin.com/in/julio-nunes-avelar-98ab8a199/
