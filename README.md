@@ -32,8 +32,11 @@
 <br/>
 <br/>
 
+### Minhas estatísticas no Git-Hub:
 
 <img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api?username=JN513&show_icons=true&hide_border=true&count_private=true"/>
+
+### Linguagens que eu mais utilizo:
 
 <img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JN513&&langs_count=8&count_private=true&layout=compact&hide=Jupyter%20Notebook,HTML"/>
 
