@@ -54,6 +54,9 @@
 
 
 #### Certificados:
-<detail> <summary>View</summary>
- [![check-certficate-badge](https://img.shields.io/badge/check-certificate-blue)](https://cursos.alura.com.br/user/12201000095-muz-ifsuldeminas-edu-br/fullCertificate/7a64c3bda628a6bb705b6ebbce7183ae)
- </detail>
+<details> <summary>View</summary>
+ Curso de Django-Rest framework: [![check-certficate-badge](https://cursos.alura.com.br/user/12201000095-muz-ifsuldeminas-edu-br/course/api-django-3-rest-framework/formalCertificate)
+ Curso de Iot: [![check-certficate-badge](https://img.shields.io/badge/check-certificate-blue)](https://cursos.alura.com.br/user/12201000095-muz-ifsuldeminas-edu-br/course/iot-assistente-pessoal-python/formalCertificate)
+ Curso de Python para data-cience: [![check-certficate-badge](https://cursos.alura.com.br/user/12201000095-muz-ifsuldeminas-edu-br/course/python-tipos-listas-numpy/formalCertificate)
+ Curso de python para data-cience introdutorio: [![check-certficate-badge](https://img.shields.io/badge/check-certificate-blue)](https://cursos.alura.com.br/user/12201000095-muz-ifsuldeminas-edu-br/course/python-intro/formalCertificate)
+ </details>
