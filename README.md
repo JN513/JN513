@@ -52,15 +52,20 @@
 [canal]: https://www.youtube.com/channel/UCvpb55VDGaTDD70Krx_YvUg?view_as=subscriber
 [twitter]: https://twitter.com/JulioNunesAvel4
 
-
+<!--
 #### Certificados:
 <details> <summary>View</summary>
- 
+ -->
+ <!--
  Curso de Django-Rest framework: [![check-certficate-badge](https://img.shields.io/badge/check-certificate-blue)](https://cursos.alura.com.br/user/12201000095-muz-ifsuldeminas-edu-br/course/api-django-3-rest-framework/formalCertificate)
- 
+ -->
+ <!--
  Curso de Iot: [![check-certficate-badge](https://img.shields.io/badge/check-certificate-blue)](https://cursos.alura.com.br/user/12201000095-muz-ifsuldeminas-edu-br/course/iot-assistente-pessoal-python/formalCertificate)
- 
+ -->
+ <!--
  Curso de Python para data-cience: [![check-certficate-badge](https://img.shields.io/badge/check-certificate-blue)](https://cursos.alura.com.br/user/12201000095-muz-ifsuldeminas-edu-br/course/python-tipos-listas-numpy/formalCertificate)
- 
+ -->
+ <!--
  Curso de python para data-cience introdutorio: [![check-certficate-badge](https://img.shields.io/badge/check-certificate-blue)](https://cursos.alura.com.br/user/12201000095-muz-ifsuldeminas-edu-br/course/python-intro/formalCertificate)
  </details>
+-->
