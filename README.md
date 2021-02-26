@@ -5,7 +5,7 @@
  - Desenvolvo alguns projetos de forma voluntaria;
  - Gosto de criar coisas novas;
  - Aprendendo sobre Machine Larning;
- - Minha linguagem principal e python, mas também utilizo C++ e Java Script;
+ - Minha linguagem principal e python, mas também utilizo C++, Java e Java Script;
  - Competidor de olimpidas e maratonas de programação.
 
 
