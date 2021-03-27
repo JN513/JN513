@@ -47,6 +47,10 @@
 
 <img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JN513&&langs_count=8&count_private=true&layout=compact&hide=Jupyter%20Notebook"/>
 
+### ....
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JN513&&langs_count=8&count_private=true)]
+
 [website]: https://jn513.github.io/
 [linkedin]: https://www.linkedin.com/in/julio-nunes-avelar-98ab8a199/
 [canal]: https://www.youtube.com/channel/UCvpb55VDGaTDD70Krx_YvUg?view_as=subscriber
