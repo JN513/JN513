@@ -49,7 +49,7 @@
 
 ### ....
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JN513&&langs_count=8&count_private=true)]
+<img aling="left" alt="estatus" src="https://github-readme-stats.vercel.app/api/wakatime?username=JN513&&langs_count=8&count_private=true" />
 
 [website]: https://jn513.github.io/
 [linkedin]: https://www.linkedin.com/in/julio-nunes-avelar-98ab8a199/
