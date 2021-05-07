@@ -39,6 +39,8 @@
 
 ### Minhas estatísticas no Git-Hub:
 
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JN513&repo=JN513&countColorcountColor)
+
 <img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api?username=JN513&show_icons=true&hide_border=true&count_private=true"/>
 
 ---
