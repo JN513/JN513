@@ -47,7 +47,7 @@
 
 ### Linguagens que eu mais utilizo:
 
-<img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JN513&&langs_count=8&count_private=true&layout=compact&hide=Jupyter%20Notebook"/>
+<img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JN513&&langs_count=10&count_private=true&layout=compact&hide=Jupyter%20Notebook"/>
 
 
 [website]: https://jn513.github.io/
