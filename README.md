@@ -1,15 +1,15 @@
-### Olá, meu nome e Julio Nunes Avelar
+### Hello, my name is Julio Nunes Avelar
 
-## Sou Brasileiro, tenho 15 anos, sou autodidata.
- - Começei a programar aos 10/11 anos;
- - Desenvolvo alguns projetos de forma voluntaria;
- - Gosto de criar coisas novas;
- - Aprendendo sobre Machine Larning;
- - Minha linguagem principal e Python, mas também utilizo C++, Java e Java Script;
- - Competidor de olimpidas e maratonas de programação.
+## I'm Brazilian, I'm 16 years old, I'm self-taught.
+ - I started programming at 10/11;
+ - I develop some projects on a voluntary basis;
+ - I like to create new things;
+ - Learning about Machine Larning;
+ - My main language is Python, but I also use C ++, Java and Java Script;
+ - Olympics competitor and programming marathons.
 
 
-### Entre em contato comigo:
+### Please contact me:
 
 [<img align="left" alt="Julio Nunes | Web-site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Julio Nunes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -18,7 +18,7 @@
 <br/>
 
 
-### linguagens e tecnologias:
+### languages and technologies:
 
 <div>
 <img aling="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -37,7 +37,7 @@
  
 ---
 
-### Minhas estatísticas no Git-Hub:
+### My statistics on Git-Hub:
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JN513&repo=JN513&countColorcountColor)
 
@@ -45,7 +45,7 @@
 
 ---
 
-### Linguagens que eu mais utilizo:
+### Languages I use most:
 
 <img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JN513&&langs_count=12&count_private=true&layout=compact&hide=Jupyter%20Notebook"/>
 
