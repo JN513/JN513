@@ -5,7 +5,7 @@
  - I develop some projects on a voluntary basis;
  - I like to create new things;
  - Learning about Machine Larning;
- - My main language is Python, but I also use C ++, Java and Java Script;
+ - My main language is Python, but I also use C ++, PHP, Java and Java Script;
  - Olympics competitor and programming marathons.
 
 
