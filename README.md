@@ -4,7 +4,7 @@
  - I started programming at 10/11;
  - I develop some projects on a voluntary basis;
  - I like to create new things;
- - Learning about Machine Larning;
+ - Learning about Embedded Systems;
  - My main language is Python, but I also use C ++, PHP, Java and Java Script;
  - Olympics competitor and programming marathons.
 
