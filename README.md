@@ -1,6 +1,6 @@
 ### Hello, my name is Julio Nunes Avelar
 
-## I'm Brazilian, I'm 16 years old, I'm self-taught.
+## I'm Brazilian, I'm 17 years old, I'm self-taught.
  - I started programming at 10/11;
  - I develop some projects on a voluntary basis;
  - I like to create new things;
