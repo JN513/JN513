@@ -1,6 +1,6 @@
 ### Olá, meu nome e Julio Nunes Avelar
 
-## Sou brasileiro, tenho 17 anos, autodidata.
+## Sou brasileiro, tenho 18 anos, autodidata.
  - Comecei a programar aos 10/11 anos;
  - Desenvolvo diversos projetos de forma voluntaria;
  - Gosto de criar coisas novas;
