@@ -6,24 +6,21 @@ Sou um grande entusiasta de hardware e amo desenvolver coisas novas. Faço parte
 
 ## Áreas de interesse
 
-Sistemas Embarcados
-Arquitetura de computadores
-Risc-V
-Sistemas operacionais de tempo Real (RTOS)
-Open Hardware e Software Livre
-Sistemas operacionais
+- Sistemas Embarcados
+- Arquitetura de computadores
+- Risc-V
+- Sistemas operacionais de tempo Real (RTOS)
+- Open Hardware e Software Livre
+- Sistemas operacionais
 
 ## Contato
 
-e-mail: [julio@bzoide.dev](email:julio@bzoide.dev)
-blog: [bzoide.dev](https://bzoide.dev )
-linkedin: [Julio Nunes](https://www.linkedin.com/in/julio-nunes-avelar-98ab8a199/)
-
-
+- E-mail: [julio@bzoide.dev](mailto:julio@bzoide.dev)
+- Blog: [bzoide.dev](https://bzoide.dev )
+- Linkedin: [Julio Nunes](https://www.linkedin.com/in/julio-nunes-avelar-98ab8a199/)
+- Telegram: [@jn513](https://t.me/jn513)
 
 ### Minhas estatísticas no Git-Hub:
-
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JN513&repo=JN513&countColorcountColor)
 
 <img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api?username=JN513&show_icons=true&hide_border=true&count_private=true"/>
 
