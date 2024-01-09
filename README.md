@@ -8,9 +8,9 @@ Sou um grande entusiasta de hardware e amo desenvolver coisas novas. Faço parte
 
 - Sistemas Embarcados
 - Arquitetura de computadores
-- Risc-V
+- RISC-V
 - Sistemas operacionais de tempo Real (RTOS)
-- Open Hardware e Software Livre
+- Open Source Hardware e Software Livre
 - Sistemas operacionais
 
 ## Contato
