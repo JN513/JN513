@@ -22,9 +22,12 @@ I am a huge hardware enthusiast and love developing new things. I am part of UNI
 
 ### My GitHub Stats:
 
+
 <img align="left" alt="JN513's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JN513&show_icons=true&hide_border=true&count_private=true"/>
 
+
 ---
+
 
 ### Languages I Use the Most:
 
