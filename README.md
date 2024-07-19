@@ -1,33 +1,31 @@
-## Sobre mim
+## About Me
 
-Olá, meu nome é Julio Nunes Avelar, brasileiro e maker desde que me entendo por gente. Sou tecnólogo em informática por formação e atualmente faço graduação em Engenharia de computação na UNICAMP. 
+Hello, my name is Julio Nunes Avelar, a Brazilian maker since I can remember. I have a degree in Information Technology and I am currently a Computer Engineering student at the State University of Campinas (UNICAMP).
 
-Sou um grande entusiasta de hardware e amo desenvolver coisas novas. Faço parte do grupo de estudos e desenvolvimento de sistemas embarcados da unicamp ([Embarcações](https://embarcacoes.unicamp.br )), nas horas vagas mantenho um blog de tecnologia o [Bzóide](https://bzoide.dev ), contribuo com projetos open source e faço alguns projetos aleatórios, muitos dos quais disponíveis de forma aberta neste Github.
+I am a huge hardware enthusiast and love developing new things. I am part of UNICAMP's study and development group for embedded systems ([Embarcações](https://embarcacoes.unicamp.br)). In my spare time, I maintain a technology blog called [Bzóide](https://bzoide.dev), contribute to open-source projects, and work on some random projects, many of which are openly available on this GitHub.
 
-## Áreas de interesse
+## Areas of Interest
 
-- Sistemas Embarcados
-- Arquitetura de computadores
+- Embedded Systems
+- Computer Architecture
 - RISC-V
-- Sistemas operacionais de tempo Real (RTOS)
-- Open Source Hardware e Software Livre
-- Sistemas operacionais
+- Real-Time Operating Systems (RTOS)
+- Open Source Hardware and Free Software
+- Operating Systems
 
-## Contato
+## Contact
 
-- E-mail: [julio@bzoide.dev](mailto:julio@bzoide.dev)
-- Blog: [bzoide.dev](https://bzoide.dev )
-- Linkedin: [Julio Nunes](https://www.linkedin.com/in/julio-nunes-avelar-98ab8a199/)
+- Email: [julio@bzoide.dev](mailto:julio@bzoide.dev)
+- Blog: [bzoide.dev](https://bzoide.dev)
+- LinkedIn: [Julio Nunes](https://www.linkedin.com/in/julio-nunes-avelar-98ab8a199/)
 - Telegram: [@jn513](https://t.me/jn513)
 
-### Minhas estatísticas no Git-Hub:
+### My GitHub Stats:
 
-<img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api?username=JN513&show_icons=true&hide_border=true&count_private=true"/>
+<img align="left" alt="JN513's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JN513&show_icons=true&hide_border=true&count_private=true"/>
 
 ---
 
-### Linguagens que eu mais utilizo:
+### Languages I Use the Most:
 
-<img aling="left" alt="estatus do Git-Hub de JN513" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JN513&&langs_count=12&count_private=true&layout=compact&hide=Jupyter%20Notebook"/>
-
-
+<img align="left" alt="Top languages used by JN513 on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JN513&&langs_count=12&count_private=true&layout=compact&hide=Jupyter%20Notebook"/>
