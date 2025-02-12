@@ -12,6 +12,7 @@ I am a huge hardware enthusiast and love developing new things. I am part of UNI
 - Real-Time Operating Systems (RTOS)
 - Open Source Hardware and Free Software
 - Operating Systems
+- FPGA
 
 ## Contact
 
