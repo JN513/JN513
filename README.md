@@ -6,13 +6,13 @@ I am a huge hardware enthusiast and love developing new things. I am part of UNI
 
 ## Areas of Interest
 
+- FPGA
 - Embedded Systems
 - Computer Architecture
 - RISC-V
 - Real-Time Operating Systems (RTOS)
 - Open Source Hardware and Free Software
 - Operating Systems
-- FPGA
 
 ## Contact
 
