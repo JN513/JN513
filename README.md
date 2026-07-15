@@ -19,7 +19,6 @@ I am a huge hardware enthusiast and love developing new things. I am part of UNI
 - Email: [julio@bzoide.dev](mailto:julio@bzoide.dev)
 - Blog: [bzoide.dev](https://bzoide.dev)
 - LinkedIn: [Julio Nunes](https://www.linkedin.com/in/julioavelar/)
-- Telegram: [@jn513](https://t.me/jn513)
 
 ## My GitHub Stats:
 
